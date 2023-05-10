@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa01oZ1U3czdvR1NnaTlBek1vRnRMMk1OYWhkZ3xBQ3Jtc0tsVkV0QUpvOVEtaWxROUJzanJsLXhFWXpQVmF3dTBoUU1JamtyaTFNNm90WWxpT0pmckxCejVmYTNwcHVsTE5mMWt6bllzUEdLRng0VXlFRDVxWHJCQ21EU25ERko1WDRxM19IY1c0blRBcTloN2p4Zw&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFFEQ0UtczVFaTl2blFtZE1fanpJeVQ0dVRNQXxBQ3Jtc0trNG0xek9YQjFpV09rS0JPMG5hb19ETGtNdTBjamx3VjZQYjVnNzVoNE5vSDhXeFd2al9JWHBFTXhkX09xTXF4RjN1dzRDWTVOYmIwTV9CbGdRWmc1WEMxMDh2cy15dnlhX1dScWZBT29WUVdpRjExMA&q=https%3A%2F%2Frishavchanda.io%2F&v=G-EGDH50hGE)
 
 <h1 align="center">Hi 👋, I'm Vanistelrooy Masime Omollo</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
