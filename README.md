@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vanistelrooy Masime Omollo</h1>
+<h2>
 <h3 align="center">A passionate web developer from Kenya</h3>
  <img align="Right" width=" 400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="coding">
 
