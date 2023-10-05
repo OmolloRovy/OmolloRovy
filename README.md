@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **cloning netflix series webpage**
 
-- 💬 Ask me about **react Django**
+- 💬 Ask me about
 
 - 📫 How to reach me **masimevanistelrooy@gmail.com**
 
