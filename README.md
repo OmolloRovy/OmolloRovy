@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **cloning netflix series webpage**
 
-- 💬 Ask me about ** MERN STACK 
+- 💬 Ask me about MERN STACK 
 
 - 📫 How to reach me **masimevanistelrooy@gmail.com**
 
