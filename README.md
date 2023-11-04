@@ -1,4 +1,4 @@
-...
+..
 <h1 align="center">Hi 👋, I'm Vanistelrooy Masime Omollo</h1>
 <h2>
  <h3>Binary call</h3>
