@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Wallpaper download website**
 
-- 🌱 I’m currently learning **Django, React TypeScript and Angular Frameworks**
+- 🌱 I’m currently learning ** TypeScript and Angular Frameworks**
 
 - 👯 I’m looking to collaborate on **cloning netflix series webpage**
 
