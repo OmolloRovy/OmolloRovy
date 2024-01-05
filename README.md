@@ -4,7 +4,7 @@
  <h3>Binary call</h3>
 01010110 01100001 01101110 01101001 01110011 01110100 01100101 01101100 01110010 01101111 01101111 01111001 00100000 01001101 01100001 01110011 01101001 01101101 01100101 00100000 01001111 01101101 01101111 01101100 01101100 01101111
  </h2>
-<h3 align="center">A passionate web developer from Kenya</h3>
+<h3 align="center">A passionate developer from Kenya</h3>
  <img align="Right" width=" 400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OmolloRovy&label=Profile%20views&color=0e75b6&style=flat" alt="OmolloRovy" /> </p>
