@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning ** TypeScript and Angular Frameworks**
 
-- 👯 I’m looking to collaborate on **cloning netflix series webpage**
+- 👯 I’m looking to collaborate on ** series webpage**
 
 - 💬 Ask me about MERN STACK   
 
