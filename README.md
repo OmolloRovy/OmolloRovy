@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Booking MERN Application**
 
-- 🌱 I’m currently learning ** TypeScript Angular Frameworks**
+- 🌱 I’m currently learning ** TypeScript, Laravel, Angular Frameworks**
 
 - 👯 I’m looking to collaborate on ** Any  REACT series webpage**
 
