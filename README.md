@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/vmasime" target="blank"><img src="https://img.shields.io/twitter/follow/vmasime?logo=twitter&style=for-the-badge" alt="vmasime" /></a> </p>
 
-- 🔭 I’m currently working on **Wallpaper website**
+- 🔭 I’m currently working on **r website**
 
 - 🌱 I’m currently learning ** TypeScript and Angular Frameworks**
 
