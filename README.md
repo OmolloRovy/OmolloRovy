@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/vmasime" target="blank"><img src="https://img.shields.io/twitter/follow/vmasime?logo=twitter&style=for-the-badge" alt="vmasime" /></a> </p>
 
-- 🌱 I’m currently learning TypeScript, Laravel,Ruby on Rails,MooTools,Sails.js, AngularJs,Meteor,Express.js,Svelte, Frameworks
+- 🌱 I’m currently TypeScript, Laravel,Ruby on Rails,MooTools,Sails.js, AngularJs,Meteor,Express.js,Svelte, Frameworks
 
 - 👯 I’m looking to collaborate on Any  MERN STACK series webpage
 
